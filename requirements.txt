@@ -3,7 +3,7 @@ appnope==0.1.0
 astor==0.6.2
 backcall==0.1.0
 beets==1.4.5
-bleach==1.5.0
+bleach==3.1.2
 certifi==2017.11.5
 chardet==3.0.4
 cycler==0.10.0
